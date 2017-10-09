@@ -1,0 +1,9 @@
+# Logfile created on 2017-06-08 15:22:04 +0700 by logger.rb/56815
+I, [2017-06-08T15:22:04.376716 #3395]  INFO -- BankAccount (Chinnpao Taing): Depositing 100
+I, [2017-06-08T15:22:04.376843 #3395]  INFO -- BankAccount (Chinnpao Taing): Withdrawing 50
+I, [2017-06-08T15:22:16.986446 #3397]  INFO -- BankAccount (Chinnpao Taing): Depositing 100
+I, [2017-06-08T15:22:16.986619 #3397]  INFO -- BankAccount (Chinnpao Taing): Withdrawing 50
+I, [2017-06-08T15:54:24.852014 #3456]  INFO -- BankAccount (Chinnpao Taing): Depositing 100
+I, [2017-06-08T15:54:24.852235 #3456]  INFO -- BankAccount (Chinnpao Taing): Withdrawing 50
+I, [2017-06-08T15:54:47.588575 #3467]  INFO -- BankAccount (Chinnpao Taing): Depositing 130
+I, [2017-06-08T15:54:47.588838 #3467]  INFO -- BankAccount (Chinnpao Taing): Withdrawing 20
